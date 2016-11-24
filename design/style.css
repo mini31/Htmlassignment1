@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
 body{
 	background-color:white;
 	width:100%;
@@ -13,6 +17,8 @@ body{
 		 
 		 
 #navigation ul li { 
+<<<<<<< HEAD
+=======
 =======
 body
 {
@@ -29,6 +35,7 @@ body
 #navigation ul li 
 { 
 >>>>>>> 4c89f9c82b6fc28306d1a80f5373a25693f3061f
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
     margin-top:12px;
 	display:inline;
 	margin-left:12px;
@@ -36,6 +43,9 @@ body
 	color:black;
 	font-family: 'Rancho', cursive;
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
 	           }
 			   
 			   
@@ -46,6 +56,15 @@ body
              }
 			 
 			 
+<<<<<<< HEAD
+
+#search input[type="text"] 
+{
+	
+
+	padding-top: 0px;
+    background: url() no-repeat 10px 6px #fcfcfc;
+=======
 #search input[type="text"] {
 =======
 	
@@ -61,6 +80,7 @@ body
 >>>>>>> 4c89f9c82b6fc28306d1a80f5373a25693f3061f
 	padding-top: 0px;
     background: url(search-white.png) no-repeat 10px 6px #fcfcfc;
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
     border: 1px solid #d1d1d1;
     font-family: 'Pacifico', cursive;
     color: #bebebe;
@@ -78,6 +98,10 @@ body
     -o-transition: all 0.7s ease 0s;
     transition: all 0.7s ease 0s;
 <<<<<<< HEAD
+
+                        }
+=======
+<<<<<<< HEAD
                         }
 =======
     }
@@ -88,10 +112,19 @@ body
 
     }
 <<<<<<< HEAD
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
 	
 	
 header{
 	position:fixed;
+<<<<<<< HEAD
+	width:100%;
+	margin-top:-140px;
+	margin-left:-10px;
+	margin-right:-0px;
+	
+    
+=======
 	background-color:#e3e3e3;
 	width:100%;
 	margin:auto;
@@ -100,6 +133,7 @@ header{
 	margin-right:-12px;
 	overflow:visible;
     height:1%;
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
 	 }
 	 
 	 
@@ -129,6 +163,13 @@ footer{
 	margin-bottom:-35px;
 	 }
 
+<<<<<<< HEAD
+	
+
+footer .grid_6 ul a li 
+{
+
+=======
 	 
 footer .grid_6 ul a li {
 =======
@@ -173,10 +214,17 @@ footer
 footer .grid_6 ul a li 
 {
 >>>>>>> 4c89f9c82b6fc28306d1a80f5373a25693f3061f
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
 	margin-left: 50px;
 	margin-right:-5px;
 	color:black;
 	text-decoration:none;
+<<<<<<< HEAD
+}
+				 
+
+					
+=======
 <<<<<<< HEAD
 	font-family: 'Roboto', sans-serif;
 	
@@ -203,6 +251,7 @@ footer .grid_6 ul li:hover{
     font-family: 'Roboto', sans-serif;
 	
 }
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
 footer .grid_6 ul li:hover
 {
 	color:maroon;
@@ -215,4 +264,8 @@ footer .grid_6 ul li:hover
 	margin-bottom:-20px;
 	
 }
+<<<<<<< HEAD
+
+=======
 >>>>>>> 4c89f9c82b6fc28306d1a80f5373a25693f3061f
+>>>>>>> b8734396cef83f15138b9b24cfca25b9c07ed953
